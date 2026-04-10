@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PAIEMENT-RECHARGE",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PAIEMENT-RECHARGE",
+  "start_url": "/",
+  "theme_color": "#1e3c72",
+  "id": "paiement-recharge",
+  "description": "Application web de paiement et de recharge mobile"
+}
